@@ -7,3 +7,5 @@ I kept this simple and sleek, and prioritized learning, troubleshooting, and des
 Next, I hope to add on pages under the about section (instead of returning the user to the home screen) with annectdotes, papers, and other research or commentary I write in the future. I also hope to change the design of the website and build out the automatic email contact when the user presses submit on the contact page. </br>
 
 This is a work in progress that I edit during my free time outside of work, and I am excited to welcome you to my project! Feel free to add any comments or share fun website animations that you recommend :)
+
+P.S. Please keep all three files in the same folder when you download and run this to ensure this works as intended.
